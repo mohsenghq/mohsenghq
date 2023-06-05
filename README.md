@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mohsenghq
-- 👀 I’m interested in anything in computer
-- 🌱 I’m currently learning python(ML)
+- 👋 Hi
+- 👀 interested in anything in computer
+- 🌱 currently learning python(ML)
 - 📫 telegram: @mohsenghq
 
 <!---
