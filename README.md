@@ -1,6 +1,6 @@
 - 👋 Hi
-- 👀 interested in anything in computer
-- 🌱 currently learning python(ML)
+- 👀 interested in Reinforcement learning and finance
+- 🌱 working on RL agent for auto trading
 - 📫 telegram: @mohsenghq
 
 <!---
