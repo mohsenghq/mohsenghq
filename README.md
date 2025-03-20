@@ -1,5 +1,7 @@
-# 💫 About Me:
-<br> I'm an AI engineer and researcher with a background in Artificial Intelligence and Machine Learning. My expertise lies in deep learning, reinforcement learning, and computer vision, with a strong focus on real-time applications.<br><br>I have worked on projects involving:<br><br>Market trend prediction<br><br>Multi-agent reinforcement learning for financial environments<br><br>Computer vision tasks like facial recognition<br><br>Model optimization for efficient inference<br><br><br>I also enjoy teaching Python and working with Docker to streamline AI deployments. Always eager to explore new ideas and push the boundaries of AI!<br>
+# 💫 About me
+I'm an AI engineer specializing in deep learning, reinforcement learning, and computer vision, with a focus on real-time applications.  
+
+I also teach Python and use Docker for AI deployment. Always eager to push AI boundaries!<br>
 
 
 ## 🌐 Socials:
